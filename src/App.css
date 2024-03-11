@@ -9,7 +9,8 @@
   margin-top: 2em;
 }
 
-.svg1 {  border: solid 1px red;  width: 200px;  height: 200px; display: block; margin: 1em 0; fill: none; }
-.svg1 .book { stroke: red; }
-.svg1 path { stroke: red; }
+.svg1 { width: 200px;  height: 200px; display: block; margin: 1em 0; fill: transparent; }
+.svg1 path { stroke: #134fc0; /* .svg1 .book { stroke: aquamarine; } */ }
+.svg1:hover { cursor: pointer; }
+.svg1:hover path { stroke: #336fdd; }
 
