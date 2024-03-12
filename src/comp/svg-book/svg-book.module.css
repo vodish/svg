@@ -5,5 +5,5 @@
 .svg1 [css-text1]   { fill: red; font-size: 2px }
 .svg1 path          { stroke: #134fc0; }
 
-.svg1:hover     { cursor: pointer; }
-.svg1:hover path { stroke: #336fdd; }
+.svg1:hover         { cursor: pointer; }
+.svg1:hover path    { stroke: #336fdd; }
