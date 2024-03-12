@@ -14,7 +14,7 @@ export default function SvgBook() {
         stroke="#1C274D" stroke-width="1.5" stroke-linecap="round" />
         
 
-      <text cm-text1>
+      <text css-text1>
         <textPath href="#my_path">Какой-то русский текст по кривой.</textPath>
       </text>
       <text x="0" y="10">Здоровеньки</text>

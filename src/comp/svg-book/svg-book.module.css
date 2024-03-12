@@ -1,7 +1,9 @@
 
-.svg1 { width: 200px;  height: 200px; display: block; margin: 1em 0; fill: transparent; }
-.svg1 text    { font-size: 1.2px; fill: lime; }
-.svg1 text[cm-text1]    { fill: red; font-size: 2px }
-.svg1 path      { stroke: #134fc0; }
+.svg1   { width: 200px;  height: 200px; display: block; margin: 1em 0; fill: transparent; }
+
+.svg1 text          { font-size: 1.2px; fill: lime; }
+.svg1 [css-text1]   { fill: red; font-size: 2px }
+.svg1 path          { stroke: #134fc0; }
+
 .svg1:hover     { cursor: pointer; }
 .svg1:hover path { stroke: #336fdd; }
