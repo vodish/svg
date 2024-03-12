@@ -4,10 +4,9 @@ import devtools from 'solid-devtools/vite'
 
 export default defineConfig({
   plugins: [
+    solid(),
     devtools({
-      /* features options - all disabled by default */
       autoname: true, // e.g. enable autoname
     }),
-    solid(),
   ],
 })

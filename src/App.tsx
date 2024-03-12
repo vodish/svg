@@ -1,6 +1,6 @@
 import { createSignal } from 'solid-js'
 import './App.css'
-import SvgBook from './comp/svg-book'
+import SvgBook from './comp/svg-book/svg-book'
 
 
 export default  function App() {
